@@ -1,2 +1,11 @@
-Link para  download  do Git:https://git-scm.com/downloads
-GitBash   
+Link para  download  do Git: (https://git-scm.com/downloads)
+GitBash é um terminal extendida do Git. 
+
+Passoa passo:
+1 Criar uma conta no  GitHub 
+2 Aprender funções basicas do GitBash 
+3 Conectar a chave de acesso do Github SSH 
+4 Criar um repositório, igual esse mesmo que esta lendo 😂
+5 Sempre fazer os commit das atualizações 
+6 Empurrar (push) atualizações e anotações para o Github 
+7 Estou gostando muito de aprender essas funções, sinto que cada dia estou mais  capacitado.
